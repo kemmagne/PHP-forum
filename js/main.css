@@ -1,0 +1,19 @@
+.categories{
+     width: 600px;
+     margin: auto;
+     background-color: rgb(235, 235, 235);
+     height: 50px;
+     line-height: 50px;
+     margin-top: 20px; 
+}
+
+.post{
+   background-color: rgb(247, 234, 206);
+   margin: auto;
+   margin-top: 10px;
+   min-height: 100px;
+   width : 700px;
+   padding : 20px;
+      
+
+}
